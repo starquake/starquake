@@ -16,7 +16,7 @@ Have an interesting opportunity? Email me! The address is on my GitHub profile.
 
 ### Featured Projects
 
-- [Top Banana!](https://github.com/starquake/topbanana) - Self-hosted quiz app to create and host quizzes (WIP)
+- [Top Banana!](https://github.com/starquake/topbanana) - Self-hosted quiz app to create and host quizzes. Look here for a showcase of my skills.
 - [My Arch Install](https://github.com/starquake/my-archinstall) - Arch Linux install script using my preferences
 
 ### Learning Projects
