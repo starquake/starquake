@@ -2,18 +2,6 @@
 
 Retro gaming enjoyer • Go/PHP Developer • Linux enthusiast
 
-### I'm looking for a new job opportunity as a Go/PHP Developer!
-
-I worked professionally with PHP and Symfony from 2001 to 2012, building web applications. From 2012 to 2017, I worked 
-with .NET on web applications, then transitioned to microservices from 2017 to 2023. In 2023, I returned to PHP and 
-started working with Go. 
-
-I'm currently building a self-hosted quiz app in Go and learning Laravel.
-
-Have an interesting opportunity? Email me! The address is on my GitHub profile.
-
----
-
 ### Featured Projects
 
 - [Top Banana!](https://github.com/starquake/topbanana) - Self-hosted quiz app to create and host quizzes. Look here for a showcase of my skills.
