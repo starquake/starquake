@@ -5,7 +5,8 @@ Retro gaming enjoyer • Go/PHP Developer • Linux enthusiast
 ### Featured Projects
 
 - [Top Banana!](https://github.com/starquake/topbanana) - Self-hosted quiz app to create and host quizzes. Look here for a showcase of my skills.
-- [My Arch Install](https://github.com/starquake/my-archinstall) - Arch Linux install script using my preferences
+- [Medium Rogue (working title)](https://github.com/starquake/mediumrogue) - An experiment in agentic engineering, disguised as a co-op hexcrawl for fifteen friends.
+- [My Arch Install](https://github.com/starquake/my-archinstall) - Arch Linux install script using my preferences.
 
 ### Learning Projects
 
